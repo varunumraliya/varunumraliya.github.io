@@ -12,7 +12,7 @@ const Home = () => {
                         <div className="col-10 mx-auto">
                             <div className="row">
                                 <div className="col-md-6 pt-5 pt-lg-0 main_text order-2 order-lg-1 d-flex justify-content-center flex-column">
-                                    <h1>Helllo, I'm <strong className="my-name" >Varun Umraliya</strong></h1>
+                                    <h1>Helllo, I'm <strong className="my-name" >varun umraliya</strong></h1>
                                     <h2 className="my-3">I'm a MERN Stack Developer.</h2>
                                     <div className="mt-3">
                                         <NavLink to="https://drive.google.com/file/d/1siB48Fbf31jjKYFaaz__voOmBR1Cwh5k/view?usp=sharing" target="_blank" className="btn-cv">View CV</NavLink>
